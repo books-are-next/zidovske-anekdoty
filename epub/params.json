@@ -1,1 +1,325 @@
-{}
+{
+  "params": {
+    "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
+      "title": "Židovské anekdoty",
+      "identifier": "880b0107-7ff4-41fd-9c90-b01f2f589d91",
+      "author": "Karel Poláček",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2016-12-02T00:00:00.000Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
+    },
+    "elements": {
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\ne-booknadpis",
+      "subtitle": "",
+      "h2": "MLP-uroven3-nadpis",
+      "h3": "",
+      "h4": "",
+      "hr": "",
+      "hrBefore": "",
+      "hrAfter": "",
+      "br": "",
+      "brBefore": "MLP_text_bez1radku\nMLP_text_bez1radku_-0-12-\nMLP_text_bez1radku_-12-0\nMLP-text-bez1radku\nMLP-text-bez1radku--0-12\nMLP-text-bez1radku--12-0\nMLP_dopis_bez1radku",
+      "brAfter": "",
+      "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
+      "figure": "MLP_obrazky\nMLP-obrazky",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\ne-bookprozatextkurzivadoprava\ne-booktirazacitacetextkurzivachar",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf\ne-booktirazautoradilo\ne-booktiraztexttucnechar",
+      "remove": "",
+      "ignore": ""
+    },
+    "structure": [
+      {
+        "isSection": true,
+        "id": "section-1",
+        "listType": "plain",
+        "children": [
+          {
+            "filename": "zidovske_anekdoty_001.md",
+            "xhtml": "zidovske_anekdoty_001.html",
+            "id": 0,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zidovske_anekdoty_002.md",
+            "xhtml": "zidovske_anekdoty_002.html",
+            "id": 1,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zidovske_anekdoty_003.md",
+            "xhtml": "zidovske_anekdoty_003.html",
+            "id": 2,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zidovske_anekdoty_004.md",
+            "xhtml": "zidovske_anekdoty_004.html",
+            "id": 3,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zidovske_anekdoty_005.md",
+            "xhtml": "zidovske_anekdoty_005.html",
+            "id": 4,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zidovske_anekdoty_006.md",
+            "xhtml": "zidovske_anekdoty_006.html",
+            "id": 5,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zidovske_anekdoty_007.md",
+            "xhtml": "zidovske_anekdoty_007.html",
+            "id": 6,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zidovske_anekdoty_008.md",
+            "xhtml": "zidovske_anekdoty_008.html",
+            "id": 7,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zidovske_anekdoty_009.md",
+            "xhtml": "zidovske_anekdoty_009.html",
+            "id": 8,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zidovske_anekdoty_010.md",
+            "xhtml": "zidovske_anekdoty_010.html",
+            "id": 9,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          },
+          {
+            "filename": "zidovske_anekdoty_011.md",
+            "xhtml": "zidovske_anekdoty_011.html",
+            "id": 10,
+            "role": "chapter",
+            "listType": "plain",
+            "inToc": true,
+            "hungry": false,
+            "devoured": false,
+            "hiddenTitle": false,
+            "children": []
+          }
+        ]
+      }
+    ],
+    "replacements": []
+  },
+  "epub": {
+    "metadata": {
+      "title": "Židovské anekdoty",
+      "identifier": "880b0107-7ff4-41fd-9c90-b01f2f589d91",
+      "author": "Karel Poláček",
+      "publisher": "Městská knihovna v Praze",
+      "modified": "2016-12-02T00:00:00.000Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zidovske_anekdoty_001.md",
+        "xhtml": "zidovske_anekdoty_001.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zidovske_anekdoty_002.md",
+        "xhtml": "zidovske_anekdoty_002.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zidovske_anekdoty_003.md",
+        "xhtml": "zidovske_anekdoty_003.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zidovske_anekdoty_004.md",
+        "xhtml": "zidovske_anekdoty_004.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zidovske_anekdoty_005.md",
+        "xhtml": "zidovske_anekdoty_005.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zidovske_anekdoty_006.md",
+        "xhtml": "zidovske_anekdoty_006.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zidovske_anekdoty_007.md",
+        "xhtml": "zidovske_anekdoty_007.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zidovske_anekdoty_008.md",
+        "xhtml": "zidovske_anekdoty_008.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zidovske_anekdoty_009.md",
+        "xhtml": "zidovske_anekdoty_009.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zidovske_anekdoty_010.md",
+        "xhtml": "zidovske_anekdoty_010.html"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "zidovske_anekdoty_011.md",
+        "xhtml": "zidovske_anekdoty_011.html"
+      }
+    ],
+    "resources": [
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image001.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/image002.jpg"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/page_styles.css"
+      },
+      {
+        "type": "text/css",
+        "href": "OEBPS/Styles/stylesheet.css"
+      },
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/obalka.jpg"
+      },
+      {
+        "type": "image/jpeg",
+        "href": "OEBPS/Images/upoutavka_eknihy.jpg"
+      }
+    ],
+    "classes": [
+      "calibre11",
+      "calibre12",
+      "calibre13",
+      "calibre4",
+      "calibre5",
+      "calibre6",
+      "calibre8",
+      "e-booklicenceobrazek",
+      "e-booklicencetext",
+      "e-booklicencetextchar",
+      "e-booklicencetexthypertext9bchar",
+      "e-booknadpis",
+      "e-bookodsazeniodstavceza",
+      "e-bookprozatext",
+      "e-bookprozatext1",
+      "e-bookprozatextdoprava",
+      "e-bookprozatextkurzivadoprava",
+      "e-booktirazacitacetext",
+      "e-booktirazacitacetext1",
+      "e-booktirazacitacetextkurzivachar",
+      "e-booktirazautoradilo",
+      "e-booktirazodsazeni6b",
+      "e-booktiraztexttucnechar",
+      "e-booktitulkaautor",
+      "e-booktitulkadilo",
+      "e-bookzalozkyhorniindex9bchar",
+      "msofootnotetext",
+      "pcalibre",
+      "pcalibre1",
+      "wordsection",
+      "wordsection1",
+      "wordsection3",
+      "wordsection4",
+      "wordsection5",
+      "wordsection6"
+    ],
+    "github": {
+      "user": "books-are-next",
+      "repo": "zidovske-anekdoty"
+    },
+    "generatedAt": 1649012718003
+  }
+}
