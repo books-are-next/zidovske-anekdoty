@@ -1,8 +1,9 @@
 ---
+title: ''
 contentType: prose
 ---
 
-Znění tohoto textu vychází z díla Židovské anekdoty tak, jak bylo vydáno Nakladatelstvím Franze Kafky v roce 1999 (POLÁČEK, Karel. Židovské anekdoty; Vše pro firmu; Pásky na vousy; Otec svého syna. V tomto celku vydání první. Praha: Nakladatelství Franze Kafky, 1999. 329 s. Spisy Karla Poláčka, sv. 17. ISBN 80-85844-58-3.).
+Znění tohoto textu vychází z díla Židovské anekdoty tak, jak bylo vydáno Nakladatelstvím Franze Kafky v roce 1999 (POLÁČEK, Karel. _Židovské anekdoty__; Vše pro firmu; Pásky na vousy; Otec svého syna._ V tomto celku vydání první. Praha: Nakladatelství Franze Kafky, 1999. 329 s. Spisy Karla Poláčka, sv. 17. ISBN 80-85844-58-3.).
 
 Autor portrétu Karla Poláčka na obálce e-knihy je neznámý.
 
@@ -18,7 +19,7 @@ Text díla (Karel Poláček: Židovské anekdoty), publikovaného [Městskou kni
 
 Citační záznam této e-knihy:
 
-POLÁČEK, Karel. Židovské anekdoty \[online\]. V MKP 1. vyd. Praha: Městská knihovna v Praze, 2016 \[aktuální datum citace e-knihy – př. cit. rrrr-mm-dd\]. ISBN 978-80-7532-430-6 (epub). Dostupné z:
+POLÁČEK, Karel. _Židovské anekdoty_ \[online\]. V MKP 1. vyd. Praha: Městská knihovna v Praze, 2016 \[aktuální datum citace e-knihy – př. cit. rrrr-mm-dd\]. ISBN 978-80-7532-430-6 (epub). Dostupné z:
 
 [http://web2.mlp.cz/koweb/00/04/29/97/03/zidovske\_anekdoty.epub](http://web2.mlp.cz/koweb/00/04/29/97/03/zidovske_anekdoty.epub).
 

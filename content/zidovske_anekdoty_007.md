@@ -1,8 +1,7 @@
 ---
+title: Anekdoty
 contentType: prose
 ---
-
-## Anekdoty
 
 O TĚCHHLE SVÁTCÍCH si pan Lissauer počínal v kostele náramně bouřlivě. Tak se horoucně modlil, až se rozčilil, a čím dál byla jeho slova hlasitější a gestikulace bouřlivější.
 

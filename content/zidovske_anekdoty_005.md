@@ -1,8 +1,9 @@
 ---
+title: |-
+  Upozornění
+  pro čtenáře 
 contentType: prose
 ---
-
-## Upozornění pro čtenáře
 
 Tato e-kniha obsahuje poznámky pod čarou, které jsou hypertextově provázány.
 
