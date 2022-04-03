@@ -14,20 +14,39 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - zidovske_anekdoty_001.html
   - zidovske_anekdoty_002.html
-  - zidovske_anekdoty_003.html
-  - zidovske_anekdoty_004.html
   - zidovske_anekdoty_005.html
   - zidovske_anekdoty_006.html
   - zidovske_anekdoty_007.html
   - zidovske_anekdoty_008.html
   - zidovske_anekdoty_009.html
   - zidovske_anekdoty_010.html
-  - zidovske_anekdoty_011.html
+  - colophon.html
 tocBase:
   - id: section-1
-    children: []
+    children:
+      - link: zidovske_anekdoty_005.html
+        title: |-
+          Upozornění
+          pro čtenáře 
+        hiddenTitle: false
+      - link: zidovske_anekdoty_006.html
+        title: Úvod
+        hiddenTitle: false
+      - link: zidovske_anekdoty_007.html
+        title: Anekdoty
+        hiddenTitle: false
+      - link: zidovske_anekdoty_008.html
+        title: Ediční poznámka
+        hiddenTitle: false
+      - link: zidovske_anekdoty_009.html
+        title: |-
+          Bibliografie díla Karla
+          Poláčka
+        hiddenTitle: false
+      - link: zidovske_anekdoty_010.html
+        title: Poznámky pod čarou
+        hiddenTitle: false
     isSection: true
     listType: plain
 static:
