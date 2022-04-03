@@ -2,13 +2,17 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
+  contentType: prose
   title: Židovské anekdoty
   identifier: 880b0107-7ff4-41fd-9c90-b01f2f589d91
   author: Karel Poláček
   publisher: Městská knihovna v Praze
   modified: '2016-12-02T00:00:00.000Z'
+  edition: beletrie
+  publisherShort: mkp
 readingOrder:
   - zidovske_anekdoty_001.html
   - zidovske_anekdoty_002.html
@@ -25,6 +29,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

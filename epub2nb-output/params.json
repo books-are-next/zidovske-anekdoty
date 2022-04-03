@@ -1,14 +1,18 @@
 {
   "params": {
     "metadata": {
+      "languageCode": "cs",
+      "contentType": "prose",
       "title": "Židovské anekdoty",
       "identifier": "880b0107-7ff4-41fd-9c90-b01f2f589d91",
       "author": "Karel Poláček",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2016-12-02T00:00:00.000Z"
+      "modified": "2016-12-02T00:00:00.000Z",
+      "edition": "beletrie",
+      "publisherShort": "mkp"
     },
     "elements": {
-      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola",
+      "title": "MLP_uroven1_zvlastni_pripady\nMLP_uroven1_cast\nMLP-uroven2-kapitola\ne-booknadpis",
       "subtitle": "",
       "h2": "MLP-uroven3-nadpis",
       "h3": "",
@@ -21,8 +25,8 @@
       "brAfter": "",
       "blockquote": "MLP_verse_-0-12-\nMLP_verse_-12-12-\nMLP-dopis-bez1radku--I",
       "figure": "MLP_obrazky\nMLP-obrazky",
-      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b",
-      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf",
+      "em": "MLP_znak_kurziva_11b\nMLP_dopis_podpis_-I-\nMLP_titulka_prekladatel\nMLP-dopis-bez1radku--I\nMLP-text--I\nMLP-text-uprostred--I\nMLP-verse\nMLP-verse.+\nMLP-znak-kurziva-11b\nMLP-znak-kurziva-9b\nMLP-znak-tucna-kurziva-11b\ne-bookprozatextkurzivadoprava\ne-booktirazacitacetextkurzivachar",
+      "strong": "MLP-tiraz-autor-a-nazev\nMLP-licence-paragraf\ne-booktirazautoradilo\ne-booktiraztexttucnechar",
       "remove": "",
       "ignore": ""
     },
@@ -30,6 +34,7 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "zidovske_anekdoty_001.md",
@@ -40,7 +45,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zidovske_anekdoty_002.md",
@@ -51,7 +57,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zidovske_anekdoty_003.md",
@@ -62,7 +69,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zidovske_anekdoty_004.md",
@@ -73,7 +81,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zidovske_anekdoty_005.md",
@@ -84,7 +93,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zidovske_anekdoty_006.md",
@@ -95,7 +105,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zidovske_anekdoty_007.md",
@@ -106,7 +117,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zidovske_anekdoty_008.md",
@@ -117,7 +129,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zidovske_anekdoty_009.md",
@@ -128,7 +141,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zidovske_anekdoty_010.md",
@@ -139,7 +153,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "zidovske_anekdoty_011.md",
@@ -150,7 +165,8 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -190,37 +206,37 @@
         "xhtml": "zidovske_anekdoty_004.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Upozornění\npro čtenáře ",
         "subtitleSuggest": "",
         "filename": "zidovske_anekdoty_005.md",
         "xhtml": "zidovske_anekdoty_005.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Úvod",
         "subtitleSuggest": "",
         "filename": "zidovske_anekdoty_006.md",
         "xhtml": "zidovske_anekdoty_006.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Anekdoty",
         "subtitleSuggest": "",
         "filename": "zidovske_anekdoty_007.md",
         "xhtml": "zidovske_anekdoty_007.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ediční poznámka",
         "subtitleSuggest": "",
         "filename": "zidovske_anekdoty_008.md",
         "xhtml": "zidovske_anekdoty_008.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Bibliografie díla Karla\nPoláčka",
         "subtitleSuggest": "",
         "filename": "zidovske_anekdoty_009.md",
         "xhtml": "zidovske_anekdoty_009.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Poznámky pod čarou",
         "subtitleSuggest": "",
         "filename": "zidovske_anekdoty_010.md",
         "xhtml": "zidovske_anekdoty_010.html"
@@ -303,6 +319,6 @@
       "user": "books-are-next",
       "repo": "zidovske-anekdoty"
     },
-    "generatedAt": 1649012718003
+    "generatedAt": 1649013253595
   }
 }

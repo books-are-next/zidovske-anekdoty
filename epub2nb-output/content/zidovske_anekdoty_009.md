@@ -1,8 +1,9 @@
 ---
+title: |-
+  Bibliografie díla Karla
+  Poláčka
 contentType: prose
 ---
-
-## Bibliografie díla Karla Poláčka
 
 Povídky pana Kočkodana (1922)
 

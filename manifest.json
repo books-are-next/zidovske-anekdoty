@@ -1,0 +1,250 @@
+{
+  "author": "Karel Poláček",
+  "contenttype": "prose",
+  "edition": "beletrie",
+  "identifier": "polacek-zidovske-anekdoty-4b1d6cd",
+  "languagecode": "cs",
+  "modified": "2016-12-02T00:00:00.000Z",
+  "publisher": "Městská knihovna v Praze",
+  "publishershort": "mkp",
+  "title": "Židovské anekdoty",
+  "revision": "4b1d6cd",
+  "generatedAt": {
+    "date": "Sun Apr 03 2022 19:15:17 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649013317659
+  },
+  "documents": [
+    {
+      "title": "Židovské anekdoty",
+      "file": "zidovske_anekdoty_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "zidovske_anekdoty_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Židovské anekdoty",
+      "file": "zidovske_anekdoty_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "zidovske_anekdoty_001.html",
+      "next": "zidovske_anekdoty_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Židovské anekdoty",
+      "file": "zidovske_anekdoty_003.html",
+      "words": 4,
+      "chars": 30,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 2,
+      "prev": "zidovske_anekdoty_002.html",
+      "next": "zidovske_anekdoty_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Židovské anekdoty",
+      "file": "zidovske_anekdoty_004.html",
+      "words": 148,
+      "chars": 1072,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 3,
+      "prev": "zidovske_anekdoty_003.html",
+      "next": "zidovske_anekdoty_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Upozornění\npro čtenáře  • Židovské anekdoty",
+      "file": "zidovske_anekdoty_005.html",
+      "words": 93,
+      "chars": 624,
+      "ideas": 6,
+      "role": "chapter",
+      "order": 4,
+      "prev": "zidovske_anekdoty_004.html",
+      "next": "zidovske_anekdoty_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Upozornění\npro čtenáře",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Úvod • Židovské anekdoty",
+      "file": "zidovske_anekdoty_006.html",
+      "words": 787,
+      "chars": 4936,
+      "ideas": 20,
+      "role": "chapter",
+      "order": 5,
+      "prev": "zidovske_anekdoty_005.html",
+      "next": "zidovske_anekdoty_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Úvod",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Anekdoty • Židovské anekdoty",
+      "file": "zidovske_anekdoty_007.html",
+      "words": 9865,
+      "chars": 57393,
+      "ideas": 620,
+      "role": "chapter",
+      "order": 6,
+      "prev": "zidovske_anekdoty_006.html",
+      "next": "zidovske_anekdoty_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Anekdoty",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ediční poznámka • Židovské anekdoty",
+      "file": "zidovske_anekdoty_008.html",
+      "words": 68,
+      "chars": 471,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 7,
+      "prev": "zidovske_anekdoty_007.html",
+      "next": "zidovske_anekdoty_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ediční poznámka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bibliografie díla Karla\nPoláčka • Židovské anekdoty",
+      "file": "zidovske_anekdoty_009.html",
+      "words": 125,
+      "chars": 781,
+      "ideas": 32,
+      "role": "chapter",
+      "order": 8,
+      "prev": "zidovske_anekdoty_008.html",
+      "next": "zidovske_anekdoty_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bibliografie díla Karla\nPoláčka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poznámky pod čarou • Židovské anekdoty",
+      "file": "zidovske_anekdoty_010.html",
+      "words": 49,
+      "chars": 316,
+      "ideas": 8,
+      "role": "chapter",
+      "order": 9,
+      "prev": "zidovske_anekdoty_009.html",
+      "next": "zidovske_anekdoty_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poznámky pod čarou",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Židovské anekdoty",
+      "file": "zidovske_anekdoty_011.html",
+      "words": 34,
+      "chars": 203,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 10,
+      "prev": "zidovske_anekdoty_010.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 11180,
+      "chars": 65872,
+      "ideas": 717
+    },
+    "chapters": {
+      "words": 11173,
+      "chars": 65826,
+      "ideas": 712
+    }
+  }
+}
