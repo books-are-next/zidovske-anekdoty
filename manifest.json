@@ -2,38 +2,18 @@
   "author": "Karel Poláček",
   "contenttype": "prose",
   "edition": "beletrie",
-  "identifier": "polacek-zidovske-anekdoty-4b1d6cd",
+  "identifier": "polacek-zidovske-anekdoty-29ddb10",
   "languagecode": "cs",
   "modified": "2016-12-02T00:00:00.000Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Židovské anekdoty",
-  "revision": "4b1d6cd",
+  "revision": "29ddb10",
   "generatedAt": {
-    "date": "Sun Apr 03 2022 19:15:17 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649013317659
+    "date": "Sun Apr 03 2022 19:26:25 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1649013985163
   },
   "documents": [
-    {
-      "title": "Židovské anekdoty",
-      "file": "zidovske_anekdoty_001.html",
-      "words": 0,
-      "chars": 0,
-      "ideas": 0,
-      "role": "chapter",
-      "order": 0,
-      "prev": null,
-      "next": "zidovske_anekdoty_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
     {
       "title": "Židovské anekdoty",
       "file": "zidovske_anekdoty_002.html",
@@ -41,48 +21,8 @@
       "chars": 0,
       "ideas": 0,
       "role": "chapter",
-      "order": 1,
-      "prev": "zidovske_anekdoty_001.html",
-      "next": "zidovske_anekdoty_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Židovské anekdoty",
-      "file": "zidovske_anekdoty_003.html",
-      "words": 4,
-      "chars": 30,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 2,
-      "prev": "zidovske_anekdoty_002.html",
-      "next": "zidovske_anekdoty_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Židovské anekdoty",
-      "file": "zidovske_anekdoty_004.html",
-      "words": 148,
-      "chars": 1072,
-      "ideas": 11,
-      "role": "chapter",
-      "order": 3,
-      "prev": "zidovske_anekdoty_003.html",
+      "order": 0,
+      "prev": null,
       "next": "zidovske_anekdoty_005.html",
       "toc": [
         {
@@ -101,8 +41,8 @@
       "chars": 624,
       "ideas": 6,
       "role": "chapter",
-      "order": 4,
-      "prev": "zidovske_anekdoty_004.html",
+      "order": 1,
+      "prev": "zidovske_anekdoty_002.html",
       "next": "zidovske_anekdoty_006.html",
       "toc": [
         {
@@ -121,7 +61,7 @@
       "chars": 4936,
       "ideas": 20,
       "role": "chapter",
-      "order": 5,
+      "order": 2,
       "prev": "zidovske_anekdoty_005.html",
       "next": "zidovske_anekdoty_007.html",
       "toc": [
@@ -141,7 +81,7 @@
       "chars": 57393,
       "ideas": 620,
       "role": "chapter",
-      "order": 6,
+      "order": 3,
       "prev": "zidovske_anekdoty_006.html",
       "next": "zidovske_anekdoty_008.html",
       "toc": [
@@ -161,7 +101,7 @@
       "chars": 471,
       "ideas": 4,
       "role": "chapter",
-      "order": 7,
+      "order": 4,
       "prev": "zidovske_anekdoty_007.html",
       "next": "zidovske_anekdoty_009.html",
       "toc": [
@@ -181,7 +121,7 @@
       "chars": 781,
       "ideas": 32,
       "role": "chapter",
-      "order": 8,
+      "order": 5,
       "prev": "zidovske_anekdoty_008.html",
       "next": "zidovske_anekdoty_010.html",
       "toc": [
@@ -201,9 +141,9 @@
       "chars": 316,
       "ideas": 8,
       "role": "chapter",
-      "order": 9,
+      "order": 6,
       "prev": "zidovske_anekdoty_009.html",
-      "next": "zidovske_anekdoty_011.html",
+      "next": "colophon.html",
       "toc": [
         {
           "index": 0,
@@ -215,20 +155,20 @@
       ]
     },
     {
-      "title": "Židovské anekdoty",
-      "file": "zidovske_anekdoty_011.html",
-      "words": 34,
-      "chars": 203,
-      "ideas": 9,
-      "role": "chapter",
-      "order": 10,
+      "title": "Tiráž • Židovské anekdoty",
+      "file": "colophon.html",
+      "words": 187,
+      "chars": 1310,
+      "ideas": 23,
+      "role": "colophon",
+      "order": null,
       "prev": "zidovske_anekdoty_010.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -242,9 +182,9 @@
       "ideas": 717
     },
     "chapters": {
-      "words": 11173,
-      "chars": 65826,
-      "ideas": 712
+      "words": 10987,
+      "chars": 64521,
+      "ideas": 690
     }
   }
 }

@@ -40,9 +40,9 @@
             "filename": "zidovske_anekdoty_001.md",
             "xhtml": "zidovske_anekdoty_001.html",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -52,9 +52,9 @@
             "filename": "zidovske_anekdoty_002.md",
             "xhtml": "zidovske_anekdoty_002.html",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -64,9 +64,9 @@
             "filename": "zidovske_anekdoty_003.md",
             "xhtml": "zidovske_anekdoty_003.html",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -76,9 +76,9 @@
             "filename": "zidovske_anekdoty_004.md",
             "xhtml": "zidovske_anekdoty_004.html",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -94,7 +94,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Upozornění\npro čtenáře "
           },
           {
             "filename": "zidovske_anekdoty_006.md",
@@ -106,7 +107,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Úvod"
           },
           {
             "filename": "zidovske_anekdoty_007.md",
@@ -118,7 +120,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Anekdoty"
           },
           {
             "filename": "zidovske_anekdoty_008.md",
@@ -130,7 +133,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Ediční poznámka"
           },
           {
             "filename": "zidovske_anekdoty_009.md",
@@ -142,7 +146,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Bibliografie díla Karla\nPoláčka"
           },
           {
             "filename": "zidovske_anekdoty_010.md",
@@ -154,15 +159,16 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Poznámky pod čarou"
           },
           {
             "filename": "zidovske_anekdoty_011.md",
             "xhtml": "zidovske_anekdoty_011.html",
             "id": 10,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -319,6 +325,6 @@
       "user": "books-are-next",
       "repo": "zidovske-anekdoty"
     },
-    "generatedAt": 1649013253595
+    "generatedAt": 1649013928914
   }
 }
