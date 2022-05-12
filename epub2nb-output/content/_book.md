@@ -14,7 +14,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
 readingOrder:
-  - zidovske_anekdoty_002.html
+  - promo.html
   - zidovske_anekdoty_005.html
   - zidovske_anekdoty_006.html
   - zidovske_anekdoty_007.html

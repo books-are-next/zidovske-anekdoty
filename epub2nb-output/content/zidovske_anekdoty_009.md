@@ -1,7 +1,5 @@
 ---
-title: |-
-  Bibliografie díla Karla
-  Poláčka
+title: Bibliografie díla Karla Poláčka
 contentType: prose
 ---
 

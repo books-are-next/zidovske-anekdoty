@@ -1,22 +1,33 @@
 {
-  "author": "Karel Poláček",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "polacek-zidovske-anekdoty-29ddb10",
-  "languagecode": "cs",
-  "modified": "2016-12-02T00:00:00.000Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Židovské anekdoty",
-  "revision": "29ddb10",
+  "author": "Karel Poláček",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "polacek-zidovske-anekdoty-5e1b173",
+  "revision": "5e1b173",
+  "readingOrder": [
+    "promo.html",
+    "zidovske_anekdoty_005.html",
+    "zidovske_anekdoty_006.html",
+    "zidovske_anekdoty_007.html",
+    "zidovske_anekdoty_008.html",
+    "zidovske_anekdoty_009.html",
+    "zidovske_anekdoty_010.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Sun Apr 03 2022 19:26:25 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1649013985163
+    "date": "Thu May 12 2022 10:42:19 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352139863
   },
   "documents": [
     {
-      "title": "Židovské anekdoty",
-      "file": "zidovske_anekdoty_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -24,38 +35,30 @@
       "order": 0,
       "prev": null,
       "next": "zidovske_anekdoty_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "Upozornění\npro čtenáře  • Židovské anekdoty",
+      "title": "Upozornění pro čtenáře",
       "file": "zidovske_anekdoty_005.html",
       "words": 93,
-      "chars": 624,
-      "ideas": 6,
+      "chars": 625,
+      "ideas": 5,
       "role": "chapter",
       "order": 1,
-      "prev": "zidovske_anekdoty_002.html",
+      "prev": "promo.html",
       "next": "zidovske_anekdoty_006.html",
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": "Upozornění\npro čtenáře",
+          "name": "Upozornění pro čtenáře",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Úvod • Židovské anekdoty",
+      "title": "Úvod",
       "file": "zidovske_anekdoty_006.html",
       "words": 787,
       "chars": 4936,
@@ -75,7 +78,7 @@
       ]
     },
     {
-      "title": "Anekdoty • Židovské anekdoty",
+      "title": "Anekdoty",
       "file": "zidovske_anekdoty_007.html",
       "words": 9865,
       "chars": 57393,
@@ -95,7 +98,7 @@
       ]
     },
     {
-      "title": "Ediční poznámka • Židovské anekdoty",
+      "title": "Ediční poznámka",
       "file": "zidovske_anekdoty_008.html",
       "words": 68,
       "chars": 471,
@@ -115,11 +118,11 @@
       ]
     },
     {
-      "title": "Bibliografie díla Karla\nPoláčka • Židovské anekdoty",
+      "title": "Bibliografie díla Karla Poláčka",
       "file": "zidovske_anekdoty_009.html",
       "words": 125,
-      "chars": 781,
-      "ideas": 32,
+      "chars": 782,
+      "ideas": 31,
       "role": "chapter",
       "order": 5,
       "prev": "zidovske_anekdoty_008.html",
@@ -128,14 +131,14 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Bibliografie díla Karla\nPoláčka",
+          "name": "Bibliografie díla Karla Poláčka",
           "id": null,
           "children": []
         }
       ]
     },
     {
-      "title": "Poznámky pod čarou • Židovské anekdoty",
+      "title": "Poznámky pod čarou",
       "file": "zidovske_anekdoty_010.html",
       "words": 49,
       "chars": 316,
@@ -155,11 +158,11 @@
       ]
     },
     {
-      "title": "Tiráž • Židovské anekdoty",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 187,
-      "chars": 1310,
-      "ideas": 23,
+      "words": 161,
+      "chars": 1100,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "zidovske_anekdoty_010.html",
@@ -177,14 +180,14 @@
   ],
   "totals": {
     "all": {
-      "words": 11180,
-      "chars": 65872,
-      "ideas": 717
+      "words": 11154,
+      "chars": 65664,
+      "ideas": 709
     },
     "chapters": {
       "words": 10987,
-      "chars": 64521,
-      "ideas": 690
+      "chars": 64523,
+      "ideas": 688
     }
   }
 }
