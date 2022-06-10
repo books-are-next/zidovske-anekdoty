@@ -3,6 +3,8 @@ title: Poznámky pod čarou
 contentType: prose
 ---
 
+<section>
+
 [\[1\]](./resources/undefined) Žaket, pánský slavnostní společenský oblek. _Pozn. red._
 
 [\[2\]](./resources/undefined) Zbohatlík (fr.). _Pozn. red._
@@ -16,3 +18,5 @@ contentType: prose
 [\[6\]](./resources/undefined) Román F. X. Svobody. _Pozn. red._
 
 [\[7\]](./resources/undefined) Odvolat se, podat stížnost. _Pozn. red._
+
+</section>
