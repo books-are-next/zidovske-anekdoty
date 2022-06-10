@@ -3,6 +3,8 @@ title: Úvod
 contentType: prose
 ---
 
+<section>
+
 Židovské anekdoty možno považovati za lidovou poezii. Tak jako neznáme autora ruských bylin nebo srbských zpěvů bohatýrských, arabských pohádek a středověkých legend, tak neznáme původce židovských anekdot. U některých anekdot bychom ovšem mohli zjistit autora; mnohé z nich vznikly ve vídeňských a budapešťských kabaretech. Je ovšem pochybno, jestli tyto anekdoty jsou původní. Pokoušíte-li se udat nějakou novou židovskou anekdotu osvědčenému znalci, nedožijete se zpravidla úspěchu. Znalec vyslechne vaše vypravování se zachmuřenou tváří, neodmění vás smíchem, jak by se slušelo, ale mávne opovržlivě rukou a řekne: „To je staré.“
 
 Karel Čapek vyslovil teorii, že vůbec není nových anekdot. Podle jeho názoru se anekdoty objevily na zemi současně s lidstvem; tudíž jakési praanekdoty, jako jsou prabuňky podle stoupenců vývojové teorie. Anekdota tedy prošla vývojem jako primitivní živoucí organismus a přizpůsobovala se současnému životu.
@@ -39,6 +41,10 @@ Po vynesení rozsudku přistoupil k soudci obžalovaný, žalobce i znalec. A v
 
 A co mám říci o židovské anekdotě? Židovská anekdota je – židovská anekdota.
 
-  
+</section>
+
+<section>
 
 _K. P._
+
+</section>

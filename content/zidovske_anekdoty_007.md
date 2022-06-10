@@ -3,6 +3,8 @@ title: Anekdoty
 contentType: prose
 ---
 
+<section>
+
 O TĚCHHLE SVÁTCÍCH si pan Lissauer počínal v kostele náramně bouřlivě. Tak se horoucně modlil, až se rozčilil, a čím dál byla jeho slova hlasitější a gestikulace bouřlivější.
 
 Tu se ho dotkl šames konejšivě prstem: „Pane Lissauer, nekřičte tak na Pána Boha. Věřte mi, že v dobrotě se to dá lépe vyřídit…“
@@ -23,7 +25,9 @@ I přivedli ho do domu nevěsty a povídají: „Hele, Artur, tady je tvoje nev�
 
 „Podívejte se, pane Reiniš, vy máte moc řečí a to já nemám rád. Když nemám peníze, nemůžu jíst lososa. Tak mi laskavě řekněte, kdy mám jíst lososa?“
 
-  
+</section>
+
+<section>
 
 „DRZOST, jakou mají někteří lidé, já vám říkám… Tadyhle pan Bloch si mě dovolil upomínat o mizerných tisíc korun. Chcete slyšet moji odpověď, co jsem mu psal? Tak si to nechte vypravovat. ‚Pane Bloch,‘ píšu mu, ‚to je od vás velká drzost, co si dovolujete. Víte co, s takovým člověkem, jako jsou oni, se nebudu bavit. Pošlou si ke mně účetního, já mu vyplatím těch tisíc korun na dřevo a přidám mu pár facek.‘
 
@@ -1242,3 +1246,5 @@ PŘIŠEL ŽID na nádraží k automatu a čte na něm nápis: „Vhoďte 5 dvac
 Vtom přistoupí nějaký křesťan a vhodí dva dvacetihaléře, a okamžitě vyskočí z automatu pět kousíčků čokolády.
 
 „To jsou teď poměry,“ praví žid. „Nový stroj, a už je antisemita.“
+
+</section>
