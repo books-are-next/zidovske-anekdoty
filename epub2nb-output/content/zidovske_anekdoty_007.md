@@ -23,6 +23,8 @@ I přivedli ho do domu nevěsty a povídají: „Hele, Artur, tady je tvoje nev�
 
 „Podívejte se, pane Reiniš, vy máte moc řečí a to já nemám rád. Když nemám peníze, nemůžu jíst lososa. Tak mi laskavě řekněte, kdy mám jíst lososa?“
 
+  
+
 „DRZOST, jakou mají někteří lidé, já vám říkám… Tadyhle pan Bloch si mě dovolil upomínat o mizerných tisíc korun. Chcete slyšet moji odpověď, co jsem mu psal? Tak si to nechte vypravovat. ‚Pane Bloch,‘ píšu mu, ‚to je od vás velká drzost, co si dovolujete. Víte co, s takovým člověkem, jako jsou oni, se nebudu bavit. Pošlou si ke mně účetního, já mu vyplatím těch tisíc korun na dřevo a přidám mu pár facek.‘
 
 Totiž, abyste mi rozuměl. Já bych mu byl takhle psal, kdybych měl těch tisíc korun…“

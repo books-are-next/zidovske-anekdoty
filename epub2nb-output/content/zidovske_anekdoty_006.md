@@ -39,4 +39,6 @@ Po vynesení rozsudku přistoupil k soudci obžalovaný, žalobce i znalec. A v
 
 A co mám říci o židovské anekdotě? Židovská anekdota je – židovská anekdota.
 
+  
+
 _K. P._
