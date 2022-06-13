@@ -2,15 +2,19 @@
 title: Tiráž
 ---
 
-<section>  
 **Karel Poláček**  
 **Židovské anekdoty**  
 Edice E-knihovna  
 Redakce Jaroslava Bednářová  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
-</section>  
-1. vydání z 11. 6. 2022.
+1. vydání z 13. 6. 2022.
+
+***
+
+Znění tohoto textu vychází z díla Židovské anekdoty tak, jak bylo vydáno Nakladatelstvím Franze Kafky v roce 1999 (POLÁČEK, Karel. _Židovské anekdoty__; Vše pro firmu; Pásky na vousy; Otec svého syna._ V tomto celku vydání první. Praha: Nakladatelství Franze Kafky, 1999. 329 s. Spisy Karla Poláčka, sv. 17. ISBN 80-85844-58-3.).
+
+Autor portrétu Karla Poláčka na obálce e-knihy je neznámý.
 
 ***
 
@@ -28,4 +32,4 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Citační záznam této e-knihy:
 
-POLÁČEK, Karel. _Židovské anekdoty_ \[online\].  Praha: Městská knihovna v Praze, 2016 \[cit. 11. 6. 2022]. ISBN 978-80-7532-430-6 (epub). Dostupné z: <next-book-url>
+POLÁČEK, Karel. _Židovské anekdoty_ \[online\].  Praha: Městská knihovna v Praze, 2016 \[cit. 13. 6. 2022]. ISBN 978-80-7532-430-6 (epub). Dostupné z: <next-book-url>
