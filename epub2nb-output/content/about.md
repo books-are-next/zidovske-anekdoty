@@ -8,7 +8,7 @@ Edice E-knihovna
 Redakce Jaroslava Bednářová  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
-V MKP 2. elektronické vydání z 23. 6. 2022.
+V MKP 2. elektronické vydání z 7. 7. 2022.
 
 ***
 
@@ -28,7 +28,7 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Citační záznam této e-knihy:
 
-POLÁČEK, Karel. _Židovské anekdoty_ \[online\]. V MKP 2. elektronické vydání z 23. 6. 2022. Praha: Městská knihovna v Praze, 2016 \[cit. 23. 6. 2022]. ISBN 978-80-7532-430-6 (epub). Dostupné z <[books-are-next.github.io/zidovske-anekdoty](https://books-are-next.github.io/zidovske-anekdoty/)>.
+POLÁČEK, Karel. _Židovské anekdoty_ \[online\]. V MKP 2. elektronické vydání z 7. 7. 2022. Praha: Městská knihovna v Praze, 2016 \[cit. 7. 7. 2022]. ISBN 978-80-7532-430-6 (epub). Dostupné z <[books-are-next.github.io/zidovske-anekdoty](https://books-are-next.github.io/zidovske-anekdoty/)>.
 
 ***
 

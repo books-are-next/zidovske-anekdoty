@@ -21,7 +21,7 @@ readingOrder:
   - zidovske_anekdoty_008.html
   - zidovske_anekdoty_009.html
   - zidovske_anekdoty_010.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:

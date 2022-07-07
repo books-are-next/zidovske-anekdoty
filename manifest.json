@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "polacek-zidovske-anekdoty-69c459b",
-  "revision": "69c459b",
+  "identifier": "polacek-zidovske-anekdoty-0ca5599",
+  "revision": "0ca5599",
   "readingOrder": [
     "promo.html",
     "zidovske_anekdoty_005.html",
@@ -18,11 +18,11 @@
     "zidovske_anekdoty_008.html",
     "zidovske_anekdoty_009.html",
     "zidovske_anekdoty_010.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:34:32 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655980472385
+    "date": "Thu Jul 07 2022 08:43:21 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183401370
   },
   "documents": [
     {
@@ -146,7 +146,7 @@
       "role": "chapter",
       "order": 6,
       "prev": "zidovske_anekdoty_009.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -159,11 +159,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 189,
-      "chars": 1322,
+      "chars": 1319,
       "ideas": 18,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "zidovske_anekdoty_010.html",
       "next": null,
@@ -181,7 +181,7 @@
   "totals": {
     "all": {
       "words": 11182,
-      "chars": 65886,
+      "chars": 65883,
       "ideas": 710
     },
     "chapters": {
