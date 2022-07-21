@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "polacek-zidovske-anekdoty-d6af480",
-  "revision": "d6af480",
+  "identifier": "polacek-zidovske-anekdoty-eb6b268",
+  "revision": "eb6b268",
   "readingOrder": [
     "promo.html",
     "zidovske_anekdoty_005.html",
@@ -21,8 +21,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 07 2022 10:09:23 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1657188563398
+    "date": "Thu Jul 21 2022 14:31:36 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658413896262
   },
   "documents": [
     {
@@ -161,7 +161,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 189,
-      "chars": 1319,
+      "chars": 1322,
       "ideas": 18,
       "role": "about",
       "order": null,
@@ -181,7 +181,7 @@
   "totals": {
     "all": {
       "words": 11182,
-      "chars": 65883,
+      "chars": 65886,
       "ideas": 710
     },
     "chapters": {
