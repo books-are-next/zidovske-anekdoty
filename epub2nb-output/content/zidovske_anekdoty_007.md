@@ -235,7 +235,7 @@ NATHAN GÄNSEKRÖS má úzkostlivou ženu. Na schodech volá ještě jednou za n
 
 PAN MANDELÍK za války strašně zbohatl a teď nedělá nic jiného, než že si vodí návštěvy do svého nádherně zařízeného příbytku a chlubí se, že ho to stálo houf peněz.
 
-Jeden návštěvník nemohl snést toto naparování a pošeptal svému sousedovi: „Je to parvenu[\[2\]](./resources/undefined)!“
+Jeden návštěvník nemohl snést toto naparování a pošeptal svému sousedovi: „Je to parvenu[^2]!“
 
 Pan Mandelík to zaslechl a pravil: „Žádný barvený, to je všecko echtovní!“
 
@@ -305,7 +305,7 @@ Ale jednou vyvolal rabín žáčka a žádal, aby mu řekl, co odpověděl Kain,
 
 Žák mlčí.
 
-„Nič?“ Rabín zavrtěl hlavou a pravil káravě: „Keď sa Hospodin pýta, Kain muss antworten[\[3\]](./resources/undefined)!“
+„Nič?“ Rabín zavrtěl hlavou a pravil káravě: „Keď sa Hospodin pýta, Kain muss antworten[^3]!“
 
 V JEDNOM křesťanském závodě měli papouška, kterého majitel naučil nadávat židům.
 
@@ -315,7 +315,7 @@ Pan Tanzer se nejprve ulekl, a pak řekl káravě k papouškovi: „Vy toho mát
 
 PANÍ POLLAK ukazuje jednomu známému obraz.
 
-„Moc hezký, milostpaní, ale měla byste mít k němu pendant[\[4\]](./resources/undefined).“
+„Moc hezký, milostpaní, ale měla byste mít k němu pendant[^4].“
 
 Druhého dne šla paní Pollak do uměleckého závodu.
 
@@ -775,7 +775,7 @@ Pan Weil se zarazil a po chvíli praví:
 
 „No, tak to si tedy přeci vezmu raději tu kravatu.“
 
-PAN PORGES seděl už hodinu v kanceláři, když přišla komptoáristka[\[5\]](./resources/undefined).
+PAN PORGES seděl už hodinu v kanceláři, když přišla komptoáristka[^5].
 
 Šéf se podíval na hodinky a pravil: „Teď se chodí do kanceláře, slečno? – Devět hodin. Za chvilku deset, za chvilku je poledne… Dnes je pondělí, zítra úterý, pozítří středa. Půl týdne je pryč, a nic se neudělalo…!“
 
@@ -953,7 +953,7 @@ PAN TAUSSIG odjíždí v červenci na cestu do Egypta.
 
 PŘIŠEL SE pan Goldschmied ptát do gymnázia, jak se učí jeho synátor Frantík. Ale neslyšel nic radostného.
 
-„Představte si,“ povídá třídní a zároveň profesor češtiny, „nedávno jsem se ho zeptal, kdo to napsal ‚Srdce její zkvétalo vždy dvěma květy‘[\[6\]](./resources/undefined), a víte, co mi odpověděl? Že prý neví!! Tak co s takovým chlapcem!?“
+„Představte si,“ povídá třídní a zároveň profesor češtiny, „nedávno jsem se ho zeptal, kdo to napsal ‚Srdce její zkvétalo vždy dvěma květy‘[^6], a víte, co mi odpověděl? Že prý neví!! Tak co s takovým chlapcem!?“
 
 Na to praví pan Goldschmied: „Kluk prolhaná je to, to já vím, pane profesore, já ho taky znám.“ A po krátkém přemýšlení: „Ale já si myslím, pane profesore, že on to opravdu nenapsal.“
 
@@ -983,7 +983,7 @@ V den soudu dostal v Drážďanech od advokáta telegram tohoto znění:
 
 Pan Weinstein hned sedl a odtelegrafoval:
 
-„Rekurovat!“[\[7\]](./resources/undefined)
+„Rekurovat!“[^7]
 
 „COPAK JSOU tak nakvašený, pane Gutfreund?“ ptá se přítel pana Gutfreunda v kavárně. „Stalo se jim něco?“
 

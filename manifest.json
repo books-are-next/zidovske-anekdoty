@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "polacek-zidovske-anekdoty-eb6b268",
-  "revision": "eb6b268",
+  "identifier": "polacek-zidovske-anekdoty-1c18ba8",
+  "revision": "1c18ba8",
   "readingOrder": [
     "promo.html",
     "zidovske_anekdoty_005.html",
@@ -21,8 +21,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jul 21 2022 14:31:36 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1658413896262
+    "date": "Thu Sep 29 2022 21:39:51 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664487591006
   },
   "documents": [
     {
@@ -61,7 +61,7 @@
       "title": "Úvod",
       "file": "zidovske_anekdoty_006.html",
       "words": 787,
-      "chars": 4936,
+      "chars": 4937,
       "ideas": 20,
       "role": "chapter",
       "order": 2,
@@ -81,7 +81,7 @@
       "title": "Anekdoty",
       "file": "zidovske_anekdoty_007.html",
       "words": 9865,
-      "chars": 57393,
+      "chars": 57399,
       "ideas": 620,
       "role": "chapter",
       "order": 3,
@@ -141,7 +141,7 @@
       "title": "Poznámky pod čarou",
       "file": "zidovske_anekdoty_010.html",
       "words": 49,
-      "chars": 316,
+      "chars": 323,
       "ideas": 8,
       "role": "chapter",
       "order": 6,
@@ -181,12 +181,12 @@
   "totals": {
     "all": {
       "words": 11182,
-      "chars": 65886,
+      "chars": 65900,
       "ideas": 710
     },
     "chapters": {
       "words": 10987,
-      "chars": 64523,
+      "chars": 64537,
       "ideas": 688
     }
   }
