@@ -8,7 +8,14 @@ Edice E-knihovna
 Redakce Jaroslava Bednářová  
 Vydala **Městská knihovna v Praze**  
 Mariánské nám. 1, 115 72 Praha 1  
-V MKP 2. elektronické vydání z 29. 9. 2022.
+[^1]: Žaket, pánský slavnostní společenský oblek. _Pozn. red._  
+[^2]: Zbohatlík (fr.). _Pozn. red._  
+[^3]: Musí reagovat. _Pozn. red._  
+[^4]: Doplňující protějšek, objekt (obraz) s protichůdnými vlastnostmi. _Pozn. red._  
+[^5]: Písařka. _Pozn. red._  
+[^6]: Román F. X. Svobody. _Pozn. red._  
+[^7]: Odvolat se, podat stížnost. _Pozn. red._  
+V MKP 2. elektronické vydání z 1. 10. 2022.
 
 ***
 
@@ -28,7 +35,7 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Citační záznam této e-knihy:
 
-POLÁČEK, Karel. _Židovské anekdoty_ \[online\]. V MKP 2. elektronické vydání z 29. 9. 2022. Praha: Městská knihovna v Praze, 2016 \[cit. 29. 9. 2022]. ISBN 978-80-7532-430-6 (epub). Dostupné z <[books-are-next.github.io/zidovske-anekdoty](https://books-are-next.github.io/zidovske-anekdoty/)>.
+POLÁČEK, Karel. _Židovské anekdoty_ \[online\]. V MKP 2. elektronické vydání z 1. 10. 2022. Praha: Městská knihovna v Praze, 2016 \[cit. 1. 10. 2022]. ISBN 978-80-7532-430-6 (epub). Dostupné z <[books-are-next.github.io/zidovske-anekdoty](https://books-are-next.github.io/zidovske-anekdoty/)>.
 
 ***
 
