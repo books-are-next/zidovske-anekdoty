@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "polacek-zidovske-anekdoty-1c18ba8",
-  "revision": "1c18ba8",
+  "identifier": "polacek-zidovske-anekdoty-50dd298",
+  "revision": "50dd298",
   "readingOrder": [
     "promo.html",
     "zidovske_anekdoty_005.html",
@@ -21,8 +21,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Sep 29 2022 21:39:51 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664487591006
+    "date": "Sat Oct 01 2022 16:09:27 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664640567082
   },
   "documents": [
     {
@@ -60,9 +60,9 @@
     {
       "title": "Úvod",
       "file": "zidovske_anekdoty_006.html",
-      "words": 787,
-      "chars": 4937,
-      "ideas": 20,
+      "words": 795,
+      "chars": 4991,
+      "ideas": 21,
       "role": "chapter",
       "order": 2,
       "prev": "zidovske_anekdoty_005.html",
@@ -80,9 +80,9 @@
     {
       "title": "Anekdoty",
       "file": "zidovske_anekdoty_007.html",
-      "words": 9865,
-      "chars": 57399,
-      "ideas": 620,
+      "words": 9903,
+      "chars": 57615,
+      "ideas": 626,
       "role": "chapter",
       "order": 3,
       "prev": "zidovske_anekdoty_006.html",
@@ -140,9 +140,9 @@
     {
       "title": "Poznámky pod čarou",
       "file": "zidovske_anekdoty_010.html",
-      "words": 49,
-      "chars": 323,
-      "ideas": 8,
+      "words": 95,
+      "chars": 593,
+      "ideas": 15,
       "role": "chapter",
       "order": 6,
       "prev": "zidovske_anekdoty_009.html",
@@ -160,9 +160,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 189,
-      "chars": 1322,
-      "ideas": 18,
+      "words": 180,
+      "chars": 1279,
+      "ideas": 17,
       "role": "about",
       "order": null,
       "prev": "zidovske_anekdoty_010.html",
@@ -180,14 +180,14 @@
   ],
   "totals": {
     "all": {
-      "words": 11182,
-      "chars": 65900,
-      "ideas": 710
+      "words": 11265,
+      "chars": 66397,
+      "ideas": 723
     },
     "chapters": {
-      "words": 10987,
-      "chars": 64537,
-      "ideas": 688
+      "words": 11079,
+      "chars": 65077,
+      "ideas": 702
     }
   }
 }
