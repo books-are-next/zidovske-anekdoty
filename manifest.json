@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "polacek-zidovske-anekdoty-ff7274a",
-  "revision": "ff7274a",
+  "identifier": "polacek-zidovske-anekdoty-761fb1e",
+  "revision": "761fb1e",
   "readingOrder": [
     "promo.html",
     "zidovske_anekdoty_005.html",
@@ -21,8 +21,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 16:01:50 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665417710646
+    "date": "Fri Oct 21 2022 11:47:49 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666352869788
   },
   "documents": [
     {
