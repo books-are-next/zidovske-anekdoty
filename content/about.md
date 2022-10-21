@@ -15,7 +15,7 @@ Mariánské nám. 1, 115 72 Praha 1
 [^5]: Písařka. _Pozn. red._  
 [^6]: Román F. X. Svobody. _Pozn. red._  
 [^7]: Odvolat se, podat stížnost. _Pozn. red._  
-V MKP 2. elektronické vydání z 10. 10. 2022.
+V MKP 2. elektronické vydání z 21. 10. 2022.
 
 ***
 
@@ -35,7 +35,7 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Citační záznam této e-knihy:
 
-POLÁČEK, Karel. _Židovské anekdoty_ \[online\]. V MKP 2. elektronické vydání z 10. 10. 2022. Praha: Městská knihovna v Praze, 2016 \[cit. 10. 10. 2022]. ISBN 978-80-7532-430-6 (epub). Dostupné z <[books-are-next.github.io/zidovske-anekdoty](https://books-are-next.github.io/zidovske-anekdoty/)>.
+POLÁČEK, Karel. _Židovské anekdoty_ \[online\]. V MKP 2. elektronické vydání z 21. 10. 2022. Praha: Městská knihovna v Praze, 2016 \[cit. 21. 10. 2022]. ISBN 978-80-7532-430-6 (epub). Dostupné z <[books-are-next.github.io/zidovske-anekdoty](https://books-are-next.github.io/zidovske-anekdoty/)>.
 
 ***
 
